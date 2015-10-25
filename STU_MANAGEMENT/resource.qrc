@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/new/logo">
+        <file>tianda.png</file>
+        <file>tianda_2.png</file>
+        <file>bkg.jpg</file>
+    </qresource>
+</RCC>
