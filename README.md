@@ -1,0 +1,2 @@
+# stuManager
+score manager
